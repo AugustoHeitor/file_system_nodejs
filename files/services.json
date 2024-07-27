@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Website Development",
+        "description": "Custom website development including design, coding, and deployment.",
+        "creationDate": "2024-07-26T08:00:00Z"
+    },
+    {
+        "id": 2,
+        "name": "SEO Optimization",
+        "description": "Search Engine Optimization services to improve website visibility and ranking.",
+        "creationDate": "2024-07-26T09:30:00Z"
+    },
+    {
+        "id": 3,
+        "name": "Digital Marketing",
+        "description": "Comprehensive digital marketing strategies including social media, email campaigns, and PPC advertising.",
+        "creationDate": "2024-07-26T11:00:00Z"
+    },
+    {
+        "id": 4,
+        "name": "Graphic Design",
+        "description": "Professional graphic design services for branding, marketing materials, and digital content.",
+        "creationDate": "2024-07-26T13:15:00Z"
+    },
+    {
+        "id": 5,
+        "name": "IT Support",
+        "description": "Technical support and troubleshooting services for hardware and software issues.",
+        "creationDate": "2024-07-26T15:30:00Z"
+    }
+]

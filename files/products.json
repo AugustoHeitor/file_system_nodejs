@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Mouse",
+        "description": "A compact and ergonomic wireless mouse with a high-precision sensor.",
+        "creationDate": "2024-07-26T08:00:00Z"
+    },
+    {
+        "id": 2,
+        "name": "Laptop Stand",
+        "description": "Adjustable laptop stand made of durable aluminum alloy.",
+        "creationDate": "2024-07-26T09:30:00Z"
+    },
+    {
+        "id": 3,
+        "name": "Bluetooth Headphones",
+        "description": "Over-ear Bluetooth headphones with noise-cancellation and long battery life.",
+        "creationDate": "2024-07-26T11:00:00Z"
+    },
+    {
+        "id": 4,
+        "name": "Desk Organizer",
+        "description": "Multi-functional desk organizer with compartments for stationery and documents.",
+        "creationDate": "2024-07-26T13:15:00Z"
+    },
+    {
+        "id": 5,
+        "name": "4K Monitor",
+        "description": "27-inch 4K UHD monitor with wide color gamut and adjustable stand.",
+        "creationDate": "2024-07-26T15:30:00Z"
+    }
+]

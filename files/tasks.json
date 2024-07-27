@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Meeting with team",
+        "description": "Discuss project updates and next steps.",
+        "creationDate": "2024-07-26T09:00:00Z"
+    },
+    {
+        "id": 2,
+        "title": "Submit report",
+        "description": "Finalize and submit the monthly report to the manager.",
+        "creationDate": "2024-07-26T10:30:00Z"
+    },
+    {
+        "id": 3,
+        "title": "Code review",
+        "description": "Review pull requests and provide feedback.",
+        "creationDate": "2024-07-26T13:00:00Z"
+    },
+    {
+        "id": 4,
+        "title": "Client call",
+        "description": "Call the client to discuss their feedback and any issues.",
+        "creationDate": "2024-07-26T15:00:00Z"
+    },
+    {
+        "id": 5,
+        "title": "Prepare presentation",
+        "description": "Create slides and content for the upcoming presentation.",
+        "creationDate": "2024-07-26T17:00:00Z"
+    }
+]
